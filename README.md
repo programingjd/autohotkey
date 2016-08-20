@@ -10,7 +10,7 @@ Examples:
 `euro = €
 `section = §
 `copy = ©
-`ellips::…
+`ellips = …
 ```
 
 
