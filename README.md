@@ -2,7 +2,7 @@ Scripted Hotkey definitions for [AutoHotKey](https://autohotkey.com/download/)
 
 ### Special chars: ###
 
-Use backquote (`) followed by the name of the symbol.
+Use backtick (`) followed by the name of the symbol.
 
 Examples:
 
@@ -16,7 +16,7 @@ Examples:
 
 ### Accentuated chars: ###
 
-Use backquote (`) followed by the character and then the accent key.
+Use backtick (`) followed by the character and then the accent key.
 
 Examples:
 
@@ -30,7 +30,7 @@ Examples:
 
 ### Greek symbols: ###
 
-Use backquote (`) followed by the name of the symbol.
+Use backtick (`) followed by the name of the symbol.
 
 Examples:
 
@@ -56,3 +56,6 @@ Examples:
 ~Ryo = リョ
 ~Ti = ティ
 ```
+
+<br>
+For a full list of hotkeys, please look at *AutoHotkey.ahk*.
