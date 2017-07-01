@@ -615,9 +615,15 @@
 ;;; │   Key Remaps   │
 ;;; └────────────────┘
 ;;;#Backspace::Delete
-RAlt::APPSKEY
-RWin::Home
-
+;;;RAlt::APPSKEY
+;;;RWin::Home
+^Left::Send {Home}
+^Right::Send {End}
+^Up::Send {PgUp}
+^Down::Send {PgDn}
++^Up::Send ^{PgUp}
++^Down::Send ^{PgDn}
+^Backspace::Send {Delete}
 
 ;;; ┌─────────────────┐
 ;;; │  Mouse Remaps   │
