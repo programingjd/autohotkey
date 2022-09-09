@@ -168,7 +168,7 @@
 :*?:``XI::Ξ
 :*?:``omicron::ο
 :*?:``pi::π
-:*?:``Pi::
+:*?:``Pi::Π
 :*?:``PI::Π
 :*?:``rho::ρ
 :*?:``sigma::σ
@@ -617,13 +617,13 @@
 ;;;#Backspace::Delete
 ;;;RAlt::APPSKEY
 ;;;RWin::Home
-^Left::Send {Home}
-^Right::Send {End}
-^Up::Send {PgUp}
-^Down::Send {PgDn}
-+^Up::Send ^{PgUp}
-+^Down::Send ^{PgDn}
-^Backspace::Send {Delete}
+^Left::Send "{Home}"
+^Right::Send "{End}"
+^Up::Send "{PgUp}"
+^Down::Send "{PgDn}"
++^Up::Send "^{Home}"
++^Down::Send "^{End}"
+^Backspace::Send "{Delete}"
 
 ;;; ┌─────────────────┐
 ;;; │  Mouse Remaps   │
