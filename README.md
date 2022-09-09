@@ -41,6 +41,20 @@ Examples:
 ```
 
 
+### Emojis: ###
+
+Use backtick (`) followed by the name of the emoji.
+
+Examples:
+
+```
+`rocket = 🚀
+`:P = 😛
+`rofl = 🤣
+`-1 = 👎
+```
+
+
 ### Japanese kana: ###
 
 Use tilde (~) followed by the the syllable.
